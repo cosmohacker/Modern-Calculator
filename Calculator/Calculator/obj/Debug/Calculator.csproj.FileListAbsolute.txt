@@ -1,0 +1,10 @@
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\yagiz\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.pdb
